@@ -9,7 +9,7 @@ frontend
  
 lambdas
   - all of our lambdas code
-  - LAMBDA GITHUB CODE PIPELINE
+  - LAMBDA GITHUB CODE PIPELINE: https://github.com/alfonsov2678/lambda-files
   
  cfm.yaml
   - Our cloudformation template used 
